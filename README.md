@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Zsombor 👋
 
-<!--
-**zsombor-flds/zsombor-flds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like things that compute. I'm data oriented engineer with a primary interest of:
 
-Here are some ideas to get you started:
+* Delivering Data Analytics end-to-end from Ingestion to Data Visualisation 
+* Data Intensive Application Development
+* Batch / Stream Processing
+* Cost / Perf optimization
+* Dev|Data-Ops 
+* Cloud Data Warehousing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+
+## Contact
+
+<p align="left"><br/>
+ <a href="https://www.linkedin.com/in/zsombor-flds/">
+  <img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin">
+ </a>
+ <a href="https://medium.com/@zsombor-flds">
+  <img src="https://img.shields.io/badge/Medium-12100E?tyle=flat-square&logo=medium">
+ </a>
+ 
+</p>
+
