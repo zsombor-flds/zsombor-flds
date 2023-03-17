@@ -1,6 +1,6 @@
 ### Hi there, I'm Zsombor 👋
 
-I like things that compute. I'm data oriented engineer with a primary interest of:
+I'm data oriented engineer with a primary interest of:
 
 * Delivering Data Analytics end-to-end from Ingestion to Data Visualisation 
 * Data Intensive Application Development
